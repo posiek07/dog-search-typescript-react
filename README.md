@@ -7,7 +7,6 @@
 
 ### 🏠 [Homepage](https://posiek07.github.io/dog-search-typescript-react)
 
-### ✨ [Demo](npx readme-md-generator)
 
 ## Install
 
