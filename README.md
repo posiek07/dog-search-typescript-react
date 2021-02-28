@@ -7,10 +7,10 @@
 > 
 
 
-<br/><a href="https://postimg.cc/BLK3JXfc" target="_blank"><img src="https://i.postimg.cc/BLK3JXfc/1.jpg" alt="1"/></a><br/><br/>
-<a href="https://postimg.cc/yW0K5gP7" target="_blank"><img src="https://i.postimg.cc/yW0K5gP7/2.jpg" alt="2"/></a><br/><br/>
-<a href="https://postimg.cc/m1WskBbx" target="_blank"><img src="https://i.postimg.cc/m1WskBbx/3.jpg" alt="3"/></a><br/><br/>
-<a href="https://postimg.cc/sGPRZqXM" target="_blank"><img src="https://i.postimg.cc/sGPRZqXM/4.jpg" alt="4"/></a><br/><br/>
+<br/><a href="https://postimg.cc/BLK3JXfc" target="_blank"><img src="https://i.postimg.cc/BLK3JXfc/1.jpg" alt="1"/></a>
+<a href="https://postimg.cc/yW0K5gP7" target="_blank"><img src="https://i.postimg.cc/yW0K5gP7/2.jpg" alt="2"/></a>
+<a href="https://postimg.cc/m1WskBbx" target="_blank"><img src="https://i.postimg.cc/m1WskBbx/3.jpg" alt="3"/></a>
+<a href="https://postimg.cc/sGPRZqXM" target="_blank"><img src="https://i.postimg.cc/sGPRZqXM/4.jpg" alt="4"/></a>
 
 
 ### 🏠 [Homepage](https://posiek07.github.io/dog-search-typescript-react)
