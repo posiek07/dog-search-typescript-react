@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> React/Typescript app using dog.ceo API with Jest/React-Testing-Library tests.
+> React Hooks/Typescript app using dog.ceo API with Jest/React-Testing-Library tests useForm input handling.
 > 
 
 
