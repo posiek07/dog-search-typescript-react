@@ -1,6 +1,7 @@
 {
   "homepage": "https://posiek07.github.io/dog-search-typescript-react",
   "name": "eco-surv-react-dog-ceo",
+  "author": "Daniel Smolinski",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
