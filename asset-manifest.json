@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dog-search-typescript-react/static/css/main.a9dbe558.chunk.css",
+    "main.js": "/dog-search-typescript-react/static/js/main.7e3ae83b.chunk.js",
+    "main.js.map": "/dog-search-typescript-react/static/js/main.7e3ae83b.chunk.js.map",
+    "runtime-main.js": "/dog-search-typescript-react/static/js/runtime-main.2dd8953a.js",
+    "runtime-main.js.map": "/dog-search-typescript-react/static/js/runtime-main.2dd8953a.js.map",
+    "static/css/2.150d169a.chunk.css": "/dog-search-typescript-react/static/css/2.150d169a.chunk.css",
+    "static/js/2.5e3410b0.chunk.js": "/dog-search-typescript-react/static/js/2.5e3410b0.chunk.js",
+    "static/js/2.5e3410b0.chunk.js.map": "/dog-search-typescript-react/static/js/2.5e3410b0.chunk.js.map",
+    "static/js/3.9bf2fd00.chunk.js": "/dog-search-typescript-react/static/js/3.9bf2fd00.chunk.js",
+    "static/js/3.9bf2fd00.chunk.js.map": "/dog-search-typescript-react/static/js/3.9bf2fd00.chunk.js.map",
+    "index.html": "/dog-search-typescript-react/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/dog-search-typescript-react/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.a9dbe558.chunk.css.map": "/dog-search-typescript-react/static/css/main.a9dbe558.chunk.css.map",
+    "static/js/2.5e3410b0.chunk.js.LICENSE.txt": "/dog-search-typescript-react/static/js/2.5e3410b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd8953a.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.5e3410b0.chunk.js",
+    "static/css/main.a9dbe558.chunk.css",
+    "static/js/main.7e3ae83b.chunk.js"
+  ]
+}
